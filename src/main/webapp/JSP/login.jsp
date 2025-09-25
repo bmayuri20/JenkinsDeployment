@@ -36,7 +36,7 @@ button {
    <div>
       <h2>Login here</h2>
       <form action="login">
-        <h3>Welcom to our Store </h3>
+        <h3>Welcom </h3>
          <label for="username">Username:</label>
          <input type="text" id= "username" name="username" placeholder="Enter Username"><br>
          
